@@ -12,3 +12,6 @@ there is also a brief powerpoint presentation breaking down what was done.
 the python file of the management system is still a work in progress,
 overall it is working with a few kinks left to work out (figuring out to have 
 the login work with the default admins that have no passwords etc)
+
+and finally there is a Power BI file that we created the dashboards to help
+break down the data from our dummy database.
